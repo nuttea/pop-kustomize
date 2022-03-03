@@ -15,4 +15,4 @@ spec:
           - name: pop-stats
             env:
               - name: SITE_NAME
-                value: "Population Stats Prod"
+                value: "Population Stats ProdProdProd"
